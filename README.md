@@ -1,8 +1,8 @@
 # TMBD-CLONE
 this is react js project using tmdb api 
 # here-how-its-look 
-Video Demo
-https://youtu.be/8m_UuGAiNR0
+Video Demo: https://youtu.be/8m_UuGAiNR0
+
 # Home-page
 ![Screenshot_select-area_20230602050254](https://github.com/Aakash-Kashyap24/TMBD-CLONE/assets/110857134/15b0d13c-990e-4d96-9a88-3bc878833cd4)
 ![Screenshot_select-area_20230602050309](https://github.com/Aakash-Kashyap24/TMBD-CLONE/assets/110857134/5cb4c727-e73a-42f3-a020-53d52aaf50c7)
